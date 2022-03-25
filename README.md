@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/responsive-faq-component-using-sass-and-html-only-4ySHTKgYW)
-- Live Site URL: (https://bryanclouddev.github.io/FAQ-accordion-card-main/)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-using-sass-and-mobile-first-rkvEC3oM9)
+- Live Site URL: (https://bryanclouddev.github.io/QRCodeComponent/)
 
 ## My process
 
