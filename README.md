@@ -1,6 +1,6 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor - QR card card component solution
 
-This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -20,10 +20,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 Users should be able to:
 
-- Check how the mediaqueries work on different screen sizes
-- Check how the check status works in order to show or hide the answers block
 - See how we can play with the overflow property in CSS in order to hide some parts of an image.
-- See how we can play with the positions in order to accomodate the images in the desktop layout in the way we need.
+- See how we can use the flex properties in order to accomodate the elements on the page.
 
 ### Screenshot
 
@@ -57,11 +55,9 @@ Users should be able to:
 I learned the difference of how to use the property align-items and align-content with flexbox, with align-items we can align multiple items that are located in the same row and align content allows us to align multiple items in multiple rows and move them freely.
 
 
-I really liked it!\
-
 ### Continued development
 
-I will definetely continue learning on how to use flex properties and when to use them
+I will definetely continue learning on how to use flex properties and when to use them properly
 
 
 ## Author
